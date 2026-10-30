@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="azul">#1672D2</color>
+    <color name="azul_oscuro">#124F97</color>
+    <color name="azul_claro">#EAF7FF</color>
+    <color name="celeste">#B8E9FC</color>
+    <color name="turquesa">#26B6CF</color>
+    <color name="amarillo">#FFE08A</color>
+    <color name="texto">#14375D</color>
+    <color name="texto_secundario">#55758F</color>
+    <color name="blanco">#FFFFFF</color>
+</resources>
